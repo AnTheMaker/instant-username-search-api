@@ -473,5 +473,10 @@
     "service": "Mastodon",
     "url": "https://mstdn.io/@{}",
     "urlMain": "https://mstdn.io/"
+  },
+  {
+    "service": "Makerlog",
+    "url": "https://getmakerlog.com/@{}",
+    "urlMain": "https://getmakerlog.com/"
   }
 ]
